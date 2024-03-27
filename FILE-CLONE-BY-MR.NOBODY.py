@@ -85,7 +85,7 @@ logo ="""
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝   
                                                                            
 \033[1;37m Owner   :           Mr.Nobdoy
-\033[1;37m Github  :            github.com/mrnobdoy
+\033[1;37m Github  :           github.com/mrnobdoy
 \033[1;37m------------------------------------------------ """
 def clear():
     os.system("clear")
